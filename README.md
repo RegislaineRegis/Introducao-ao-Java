@@ -1,5 +1,5 @@
 # Curso Tech Afro Pretas - Java
-Curso disponibilizado pela Prosper e pela Bees em Java, conta com 84 horas de aulas online e síncronas
+Curso disponibilizado pela Prosper e pela Bees em Java, conta com 84 horas de aulas online e síncronas. Segue abaixo um check-list dos primeiros exercicios estudados em introdução ao Java, administrado pela facilitador(a) Michelle De Souza.
 
 - [Atividades de introdução ao Java](#atividades-de-introdução-ao-Java)
 
